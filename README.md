@@ -11,8 +11,6 @@
 
 --- I learn some English, And i can use as well, but im not a good speaker language. Native Language> Portuguese.
 
----I am returning today.
-
 
 - 🔭 Learning Linux Terminal, Git, Github, Excel, Java And Html. 
 - 🤔 I’m looking for help with About to be a DEV
