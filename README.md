@@ -2,9 +2,7 @@
 --- I'm Jorge Lucas, Brazilian ![Br_16x_16](https://user-images.githubusercontent.com/93394405/144139106-99f1d81c-248f-40ac-be2d-ffa223a19f1f.png)
   , now studying at UFPA ![Book_16](https://user-images.githubusercontent.com/93394405/144140173-cc744dfb-2c0c-48ef-825c-ca60f76c707f.png)
  to be a music teacher ♫. I have few informal experience with coding, sometimes since I was a child (maybe 10 years old), I already have my ![Blogger_16x_16](https://user-images.githubusercontent.com/93394405/144141322-effc38af-220a-4dc9-b4a4-c1a2eca0e040.png)
- Blogger Profiles with HTML ![html16x_16](https://user-images.githubusercontent.com/93394405/144141396-e4b9a315-2529-4884-bb4b-c03c6cb5de89.png)
-
-. today Blogger is WordPress. and my blog no longer exists :(
+ Blogger Profiles with HTML. today Blogger is WordPress. and my blog no longer exists :(
 
 --- as a child I edited mods for Counter-Strike 1.6 ![counter_strike_16x_16](https://user-images.githubusercontent.com/93394405/144141779-e4905115-2b31-4cbe-be43-1e1b95968c07.png)
  and hosted them on HLDS to play with my friends. 
@@ -15,7 +13,9 @@
 
 ---I am returning today 
 Some Infos.
-- 🔭 Learning Linux Terminal, Git, Github, Exel, Java And Html 
+- 🔭 Learning Linux Terminal, Git, Github, Ecxel, Java And Html 
 - 🤔 I’m looking for help with About to be a DEV
 - 👋 Why im lerning? Curiosity, As a Hobbie, because i Like it :D
+- Futures Objetives is "work-to-learn" usa one job as Dev to learn.
 ### I'm returning today to coding, wish me good luck.
+ -Jorge Lucas 11/30/21
