@@ -15,7 +15,7 @@
 - 🔭 Learning Linux Terminal, Git, Github, Excel, Java And Html. 
 - 🤔 I’m looking for help with About to be a DEV
 - 👋 Why im learning? Curiosity, As a Hobbie, because i Like it :D
-- Futures Objetives is "work-to-learn" usa one job as Dev to learn.
+- Futures Objetives is "work-to-learn" use one job as Dev to learn and find another opportunities to learn.
 
 
 ### I'm returning today to coding, wish me good luck. see ya!
