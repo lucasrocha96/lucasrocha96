@@ -1,8 +1,7 @@
 ### Hi there 👋
 --- I'm Jorge Lucas, Brazilian ![Br_16x_16](https://user-images.githubusercontent.com/93394405/144139106-99f1d81c-248f-40ac-be2d-ffa223a19f1f.png), now studying at UFPA-Universidade Federal do Pará. ![UFPA PNG](https://user-images.githubusercontent.com/93394405/144149775-1f5a65f1-1d7c-46fb-a182-f88c8ac6faeb.png) to be a music teacher ♫. 
 
----I have few informal experience with coding, sometimes since I was a child (maybe 10 years old), I already have my ![Blogger_16x_16](https://user-images.githubusercontent.com/93394405/144141322-effc38af-220a-4dc9-b4a4-c1a2eca0e040.png)
- Blogger Profiles with HTML. today Blogger is WordPress. and my blog no longer exists :(
+---I have few informal experience with coding, sometimes since I was a child (maybe 10 years old), I already have my Blogger ![Blogger_16x_16](https://user-images.githubusercontent.com/93394405/144141322-effc38af-220a-4dc9-b4a4-c1a2eca0e040.png) Profiles with HTML. today Blogger is WordPress. and my blog no longer exists :(
 
 --- as a child I edited mods for Counter-Strike 1.6 ![counter_strike_16x_16](https://user-images.githubusercontent.com/93394405/144141779-e4905115-2b31-4cbe-be43-1e1b95968c07.png)
  and hosted them on HLDS to play with my friends. 
