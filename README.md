@@ -11,14 +11,16 @@
 
 --- I learn some English, And i can use as well, but im not a good speaker language. Native Language> Portuguese.
 
----I am returning today 
-Some Infos.
+---I am returning today.
+
+
 - 🔭 Learning Linux Terminal, Git, Github, Excel, Java And Html. 
 - 🤔 I’m looking for help with About to be a DEV
 - 👋 Why im lerning? Curiosity, As a Hobbie, because i Like it :D
 - Futures Objetives is "work-to-learn" usa one job as Dev to learn.
+
+
 ### I'm returning today to coding, wish me good luck. see ya!
  
- 
- -Jorge Lucas 11/30/21.
+  -Jorge Lucas 11/30/21.
  
