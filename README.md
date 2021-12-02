@@ -6,7 +6,7 @@
 - as a child I edited mods for Counter-Strike 1.6 ![counter_strike_16x_16](https://user-images.githubusercontent.com/93394405/144141779-e4905115-2b31-4cbe-be43-1e1b95968c07.png)
  and hosted them on HLDS to play with my friends. 
 
-- at the age of fourteen, I was accepted at the technical school in computer science Etemb (Escola técnica Magalhaes Barata) But i not finished cos'I didn't feel I was learning something usefull (like a Pascal or Cobol) "no one use this no more Why i am learning This?" 
+- at the age of fourteen, I was accepted at the technical school in computer science Etemb (Escola técnica Magalhaes Barata) But i not finished cos'I didn't feel I was  not learning something usefull (like a Pascal or Cobol) "no one use this no more Why i am learning This?" 
 
 - I learn some English, And i can use as well, but im not a good speaker language. Native Language> Portuguese.
 
