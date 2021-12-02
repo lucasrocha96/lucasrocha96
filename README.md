@@ -22,10 +22,13 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
 ![lucasrocha96 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrocha96&theme=nord&show_icons=true)
+
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha96&theme=nord)
 
 
 
