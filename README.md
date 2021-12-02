@@ -19,4 +19,19 @@
 ### I'm returning today to coding, wish me good luck. see ya!
  
                                                       -Jorge Lucas 11/30/21.
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+![lucasrocha96 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrocha96&theme=nord&show_icons=true)
+
+
+
+
+
+
+
+
  
