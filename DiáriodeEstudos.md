@@ -28,13 +28,13 @@
 
 
 ##  Git/Github Revisão Autônoma           02/12/21
-Aula 6 - Settings Git                     
-Aula 7 - Versionamento                    
-Aula 8 - Versionamento                    
-Aula 9 - Clonando Git  
-Aula 10 - Issues
-Aula 11 - Markdown.md 
-Aula 12 - Branchs
+- Aula 6 - Settings Git                     
+- Aula 7 - Versionamento                    
+- Aula 8 - Versionamento                    
+- Aula 9 - Clonando Git  
+- Aula 10 - Issues
+- Aula 11 - Markdown.md 
+- Aula 12 - Branchs
 
 
 
