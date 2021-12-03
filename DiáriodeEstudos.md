@@ -37,7 +37,8 @@
 - Aula 12 - Branchs                       03/12/21
 
 ## Algoritimos                            03/12/21
-- Atividade Autônoma                 
+- Atividade Autônoma     
+- Aula 5 -  Estruturas condicinais.            
 
 
 Último estudo 03/12/21
