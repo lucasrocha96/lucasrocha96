@@ -1,13 +1,15 @@
 # Meus registro e acompanhamento de aulas e atividades #
+  
+  ---
 
-##  Algoritimos Revisão Autonoma          30/11/21
+##  Algoritimos Revisão Autônoma          30/11/21
 Aula 1 - Introdução a algorítimos.         
 Aula 2 - Algoritimos computacionais.       
 Aula 3 - Comando de entrada e operadores.  01/12/21
 Aula 4 - Operadores lógicos e relacionais. 01/12/21
 
 
-##  Git/Github Revisão Autonoma           01/12/21
+##  Git/Github Revisão Autônoma           01/12/21
 Aula 1 - Git e Versionamento.             
 Aula 2 - Funções Github.                   
 Aula 3 - História Do GitHub.              
@@ -25,7 +27,7 @@ Aula 5 - Commits e Repositórios.
 1.8 Summary                              
 
 
-##  Git/Github Revisão Autonoma           02/12/21
+##  Git/Github Revisão Autônoma           02/12/21
 Aula 6 - Settings Git                     
 Aula 7 - Versionamento                    
 Aula 8 - Versionamento                    
