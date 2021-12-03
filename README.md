@@ -30,7 +30,7 @@
 
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha96&theme=nord)
 
-![Developer-roadmap-image](https://user-images.githubusercontent.com/93394405/144522203-98e8cb9a-ec4c-4f56-b370-33de3c17bb61.png)
+
 
 
 
