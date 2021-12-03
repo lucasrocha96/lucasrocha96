@@ -34,11 +34,13 @@
 - Aula 9 - Clonando Git  
 - Aula 10 - Issues
 - Aula 11 - Markdown.md 
-- Aula 12 - Branchs
+- Aula 12 - Branchs                       03/12/21
+
+## Algoritimos                            03/12/21
+- Atividade Autônoma                 
 
 
-
-Último estudo 02/12/21
+Último estudo 03/12/21
 --
 
 
