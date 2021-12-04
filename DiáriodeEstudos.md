@@ -42,3 +42,5 @@
 
 
 
+## Estrutura de dados.          04/12/21
+- Aula 1 - Introdução à Estrutura de dados
