@@ -43,4 +43,8 @@
 
 
 ## Estrutura de dados. - 04/12/21
-- Aula 1 - Introdução à Estrutura de dados
+- Aula 1 - Introdução à Estrutura de dados.
+
+## Estrutura de dados. - 05/12/21
+- Aula 1 - TAD (Tipo Abstrato de Dado).
+
