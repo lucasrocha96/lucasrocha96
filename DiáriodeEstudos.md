@@ -1,4 +1,4 @@
-# Meus registro e acompanhamento de aulas e atividades #
+# Meus registros e acompanhamentos de aulas e atividades #
   
   ---
 
