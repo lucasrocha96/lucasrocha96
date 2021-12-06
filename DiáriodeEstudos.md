@@ -47,4 +47,4 @@
 - Aula 04 - Comutação e Protocolo.
 - Aula 05 - Gateway e Firewall.- Aula 06 - Unidades métricas - Byte.
 - Aula 06 - HTTP - Hyper text tranfer protocol.
-- Aula 07 -DNS- Domain Name System.
+- Aula 07 - DNS- Domain Name System.
