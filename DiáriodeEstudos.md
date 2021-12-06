@@ -45,4 +45,4 @@
 - Aula 02 - Arquiteturas de Redes - Modelo em camadas.
 - Aula 03 - Introdução a Comunicação de Dados.
 - Aula 04 - Comutação e Protocolo.
-- Aula 05 - Gateway e Firewall.
+- Aula 05 - Gateway e Firewall.- Aula 06 - Unidades métricas - Byte.
