@@ -40,11 +40,6 @@
 - Atividade Autônoma     
 - Aula 5 -  Estruturas condicinais.            
 
-
-
-## Estrutura de dados. - 04/12/21
-- Aula 1 - Introdução à Estrutura de dados.
-
-## Estrutura de dados. - 05/12/21
-- Aula 1 - TAD (Tipo Abstrato de Dado).
+## Sistema de Redes. - 06/12/21
+- Aula 01 - Introdução a sistema de Redes.
 
