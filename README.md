@@ -13,7 +13,7 @@
 
 - I learn some English, And i can use as well, but im not a good speaker language. Native Language > Portuguese.
 
-- Learning Linux Terminal, Git, Github, Excel, Java And Html. 
+- Learning Linux Terminal, Git, Github, Excel,  And Html. 
 
 - I’m looking for help with About to be a DEV
 
